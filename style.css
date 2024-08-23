@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(9, 146, 220);
+}
+h2{
+    color: rgb(255, 230, 0);
+    font-size: 55px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#table{
+    font-size: 35px;
+    width: 20%;
+    margin-right: auto;
+    margin-left: auto;
+    color: rgb(168, 238, 38);
+    font-weight: bold;
+}
